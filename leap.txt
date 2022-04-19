@@ -1,0 +1,5 @@
+If the year is divisible by 400 alone. Then it is a leap year.
+if not then it is non-leap year
+Else if year is given is only divisible by 100.
+then it is  a non leap year.
+Else if the same year is leap year if the year is completely divisible by 4. 
