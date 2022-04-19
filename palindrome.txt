@@ -1,0 +1,23 @@
+
+Take a number as a input.
+
+Take the value of integer and store it in another variable.
+
+Initialize a variable to 0 and say reverse =0
+
+perform modulus for getting last digit number. x=n%10
+
+Perform reverse = reverse*10+r
+
+perform n=n/10
+
+Use if statement to check the number is palindrome or not.
+If pallindrome
+
+print is palindrome 
+
+else 
+
+print not a palindrome. 
+
+ 
